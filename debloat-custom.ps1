@@ -452,6 +452,7 @@ $Bloatware = @(
     "McAfeeWPSSparsePackage_0j6k21vdgrmfw"
     "Microsoft.Edge.GameAssist"
     "Clipchamp.Clipchamp"
+    "Microsoft.OneDriveSync"
     #Optional: Typically not removed but you can if you need to for some reason
     "Microsoft.Advertising.Xaml"
     #"*Microsoft.MSPaint*"
