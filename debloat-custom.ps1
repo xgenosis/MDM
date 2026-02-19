@@ -3173,14 +3173,14 @@ if ($IsOOBEComplete -eq 0) {
 
     ## Remove All Office Products XML Start ##
 
-    #$xml = @"
-    #<Configuration>
-    #  <Display Level="None" AcceptEULA="True" />
-    #  <Property Name="FORCEAPPSHUTDOWN" Value="True" />
-    #  <Remove All="TRUE">
-    #  </Remove>
-    #</Configuration>
-    #"@
+    $xml = @"
+    <Configuration>
+      <Display Level="None" AcceptEULA="True" />
+      <Property Name="FORCEAPPSHUTDOWN" Value="True" />
+      <Remove All="TRUE">
+      </Remove>
+    </Configuration>
+"@
 
     ## Remove All Office Products XML End
 
