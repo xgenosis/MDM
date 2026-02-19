@@ -18,11 +18,6 @@
 C:\ProgramData\Debloat\Debloat.log
 .NOTES
   Version:        5.5.1
-  Author:         Andrew Taylor
-  Twitter:        @AndrewTaylor_2
-  WWW:            andrewstaylor.com
-  Creation Date:  08/03/2022
-  Purpose/Change: Initial script development
   Change: 12/08/2022 - Added additional HP applications
   Change 23/09/2022 - Added Clipchamp (new in W11 22H2)
   Change 28/10/2022 - Fixed issue with Dell apps
